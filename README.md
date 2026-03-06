@@ -10,11 +10,10 @@ This repository demonstrates the intersection of **Cybersecurity GRC** and **AI 
 - **Risk Mitigation:** Designing Human-in-the-Loop (HITL) protocols for automated identity verification.
 - **Security Governance:** Integrating ISO 27001 controls within AI-driven operational lifecycles.
 
-## 📂 Framework Components (Coming Soon)
-*In the coming weeks, I will be uploading the following artifacts:*
-- **[AI-Impact-Assessment]**: A simulated evaluation of bias and security in automated visa systems.
-- **[Compliance-Crosswalk]**: A technical mapping of NIST/ISO controls to emerging AI law.
-- **[Incident-Response-SOP]**: Procedures for managing AI hallucinations and data breaches.
+## 📂 Framework Components (Live)
+- **[AI-Impact-Assessment](./assessments/AI_Impact_Assessment_Visa_Processing.md)**: A simulated evaluation of bias and security in automated visa systems.
+- **[Compliance-Crosswalk](./compliance/ISO27001_to_EU_AI_Act_Crosswalk.md)**: A technical mapping of NIST/ISO controls to emerging AI law.
+- **[Incident-Response-SOP](./operations/AI_Incident_Response_SOP.md)**: Procedures for managing AI hallucinations and data breaches.
 
 ## 🎓 Credentials & Expertise
 - **25+ Years of Leadership:** Global Identity Management & Contract Operations (VFS Global / BLS).
