@@ -1,8 +1,7 @@
 # AI Impact Assessment (AIA): Automated Document Verification
 **Project:** Integration of Generative AI in Visa/Identity Processing  
 **Assessor:** Kaustubh Banerjee  
-**Status:** Simulated / Portfolio Project  
-
+**Status:** Operational Blueprint / Implementation Template
 ---
 
 ### **1. System Description**
